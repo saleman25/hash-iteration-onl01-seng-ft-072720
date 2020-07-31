@@ -13,4 +13,4 @@ end
 
 
 def age_appropriate_birthday(birthday_kids)
-  
+  birthday_kids.collect do ||
